@@ -7,6 +7,11 @@
         <!-- Branch merging concept for new branch to a team -->
         <!-- undrestanding the Branch merging concept for create the merge request -->
         <title>Kodekloud E-Commerce</title>
+        
+        
+        
+        <!-- Branch merging concept for new branch to a team -->
+        <!-- undrestanding the Branch merging concept for create the merge request -->
 
         <!-- Favicon -->
         <link rel="icon" href="img/favicon.png" type="image/png" />
@@ -45,6 +50,8 @@
                     </form>
                 </div>
                 <div class="container">
+        <!-- Branch merging concept for new branch to a team -->
+        <!-- undrestanding the Branch merging concept for create the merge request -->
                     <div class="row">
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="col-md-2 p0">
