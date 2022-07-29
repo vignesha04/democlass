@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!-- Branch merging concept -->
+        <!-- Branch merging concept for new branch to a team -->
         <title>Kodekloud E-Commerce</title>
 
         <!-- Favicon -->
