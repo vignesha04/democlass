@@ -5,6 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Branch merging concept for new branch to a team -->
+        <!-- undrestanding the Branch merging concept for create the merge request -->
         <title>Kodekloud E-Commerce</title>
 
         <!-- Favicon -->
